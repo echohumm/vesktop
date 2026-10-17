@@ -1,0 +1,11 @@
+# source archives
+Vencord*.tar.gz
+Vesktop*.tar.gz
+
+# packaging
+pkg/
+# only used when packaging
+src/
+
+# packages
+vesktop*.pkg.tar.zst
