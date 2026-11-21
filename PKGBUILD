@@ -9,9 +9,9 @@
 # Bump pkgver (Vesktop tag) and _vencordver (Vencord tag) with repoupd.
 pkgname=vesktop
 _pkgname=Vesktop
-pkgver=1.6.8
-_vencordver=1.15.15
-pkgrel=4
+pkgver=1.6.9
+_vencordver=1.15.17
+pkgrel=2
 pkgdesc="Standalone Electron-based Discord app with a customized Vencord built in"
 arch=('x86_64' 'aarch64')
 url="https://github.com/Vencord/Vesktop"
@@ -28,8 +28,8 @@ source=("$_pkgname-$pkgver.tar.gz::https://github.com/Vencord/Vesktop/archive/v$
         "TimestampSeconds.ts"
         "vesktop.desktop"
         "vesktop.sh")
-sha256sums=('91dd4630fb5fff153586056451a9587f4c5fbeb048c6d570a35056460415f22f'
-            '6d567dd6f119d72fcfb8eb078a71b9ab71c5bab226d726388eabb8423db8b2ee'
+sha256sums=('6523647bbf79faaaebe9da260ba706db44e074b5ac0f5a76d1cfeaaa9d6c4d0e'
+            '48d00df0fee5aaec4150073dcd68b13298e882ae0b66f4adf42b161a0fd54e5a'
             'e1fdef08589658f00046d69e3288c2a2080c2ff9684dfb9570ae9f3b905b7429'
             '0f410fa1218836fbcd5c9165363a8bfe67fad21c78d000122ba41ce47f2a3f13'
             '98fa8f661b065c2d825e24f0055a40ae01d58d23628ad7ebf6914296209dd43c'
