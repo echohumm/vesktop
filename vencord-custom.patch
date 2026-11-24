@@ -74,6 +74,4 @@ diff -ruN a/src/plugins/replyTimestamp/style.css b/src/plugins/replyTimestamp/st
 +    overflow: visible;
      margin-inline-end: 0.5rem;
      width: unset !important;
--}
-\ No newline at end of file
-+}
+ }
